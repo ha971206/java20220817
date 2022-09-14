@@ -1,5 +1,5 @@
 package Memo.rockabye;
 
-public class Teacher extends Choongang {
+public abstract class Teacher implements Human {
 
 }
